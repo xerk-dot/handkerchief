@@ -85,7 +85,7 @@ ___
 
 ## What's not included
 
-- [ ] Search (though, lets be real, twitter's current search functionalities really sucks, and the platform would probably be better with a 4chan-style board/search)
+- [ ] Search (though, lets be real, twitter's current search functionalities really sucks)
 - [ ] User mentions ("@*")
 - [ ] Tweet thread
 - [ ] "Refactoring"
